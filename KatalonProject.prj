@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-   <description></description>
+   <description>MyFirstKatalonProject</description>
    <name>KatalonProject</name>
    <tag></tag>
-   <UUID>c718a940-1150-4d88-9acc-ba8ce333e479</UUID>
+   <UUID>4eb791cf-0c26-4c97-aa8f-5ab332f7d60b</UUID>
    <migratedVersion>5.7.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
